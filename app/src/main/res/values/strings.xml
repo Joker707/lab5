@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="button">button</string>
+    <string name="to_first">to_first</string>
+    <string name="to_second">to_second</string>
+    <string name="text_about">text_about</string>
+    <string name="about">about</string>
+</resources>
